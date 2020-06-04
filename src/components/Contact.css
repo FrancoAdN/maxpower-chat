@@ -1,0 +1,24 @@
+.main-div {
+    width: 350px;
+    margin: 15px;
+    background: #e3e3e3;
+}
+
+.main-form {
+    margin: 15px;
+}
+
+.main-form input{
+    margin-top: 15px;
+}
+
+.main-form textarea{
+    margin-top: 15px;
+}
+
+.send-button {
+    background: #e2130b;
+    color: #ffffff;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
