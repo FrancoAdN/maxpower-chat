@@ -1,0 +1,77 @@
+.main-chat {
+    margin-top: 30px;
+    height: 600px;
+    
+}
+
+.toprow {
+    height: 50px;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top-left-radius: 15px;
+}
+
+.main-top-row{
+    height: 50px;
+    border: 1px solid black;
+    
+}
+
+.mainrow {
+    height: 600px;
+    border: 1px solid black;
+    /* border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black; */
+}
+.left-row{
+    height: 550px;
+    border-bottom: 1px solid black;
+    /* border-right: 1px solid black; */
+    border-left: 1px solid black;
+    border-bottom-left-radius: 15px;
+}
+
+.content {
+    height: 500px;
+}
+
+.send-div {
+    height: 50px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+.in-msg {
+    margin-top: 10px;
+    border-radius: 30px;
+    border: 1px solid lightgray;
+    width: 90%;
+    margin-left: 5%;
+    height: 30px;
+}
+
+.in-msg input{
+    border: none;
+    width: 80%;
+    outline: none;
+    /* margin-left: 5%; */
+}
+
+.div-info {
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.center-v {
+    margin: 0;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
